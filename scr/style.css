@@ -1,3 +1,17 @@
 body {
-  background: white;
+  color: #2e2e2e;
+  background: #f6f4f1;
 }
+
+a {
+  color: #8c6a5d;
+}
+
+a:visited {
+  color: #a7b7a1;
+}
+
+/* Background: #F6F4F1 (warm off-white)
+Primary text: #2E2E2E (charcoal)
+Accent: #8C6A5D (muted brown / sepia)
+Secondary accent: #A7B7A1 (sage green) */
