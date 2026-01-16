@@ -1,2 +1,2 @@
-# poems
+# poem-app
 Poems generator
